@@ -1,14 +1,7 @@
 html {
   font-size: 72.5%; 
-.column {
-  width: 100%;
 }
 
-@media (min-width: 600px) {
-  .column {
-    width: 50%;
-  }
-}}
 
 body {
     -webkit-animation-delay: 0.1s;
@@ -19,7 +12,7 @@ body {
     font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
     line-height: 1.7;
     font-weight: 400;
-    font-family: "Noto Sans", sans-serif;
+    font-family: "PT Sans", sans-serif;
     color: #222; 
 }
 
