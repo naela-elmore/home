@@ -91,12 +91,25 @@ div#pagetitle{
   vertical-align: middle;
   width: 75px;
   height: 75px;
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 #name {
     vertical-align: top;
     text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 }
 
 p {
