@@ -186,7 +186,7 @@ table ol {
 .divider {
     height: 2px;
     border: #222222;    
-    background-color: #222222;  
+    background-color: #cdb4db;  
     margin-top: 3.2rem;  
     margin-bottom: 2.4rem;  
   }
@@ -194,8 +194,8 @@ table ol {
 .nav {
     width: 100%;
     background-color: #cdb4db; 
-    border-color: #d3f3ef;
-    color: #222222;
+    border-color: #cdb4db;
+    color: #cdb4db;
     margin-top: -13px;
     margin-left: -8px;
     margin-bottom: 20px;
