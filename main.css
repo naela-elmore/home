@@ -81,14 +81,17 @@ div#pagetitle{
     justify-content: center;
 }
 
+.about-col-1 .user-picture {
+    margin-bottom: 25px;
+}
 
 .user-picture {
     border-radius: 50%;
-    max-width: calc(100%);
+    max-width: calc(85%);
 }
 
 img {
-    vertical-align: left;
+    vertical-align: middle;
     max-width: 100%;
     height: auto;
 }
