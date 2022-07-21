@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 html {
   font-size: 72.5%; 
@@ -11,7 +11,7 @@ body {
     -webkit-animation-duration: 0.1s;
     -webkit-animation-iteration-count: 1;
     -webkit-animation-timing-function: linear;
-    font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
+    font-size: 1.6em; 
     line-height: 1.7;
     font-weight: 400;
     font-family: "PT Sans", sans-serif;
@@ -76,37 +76,17 @@ div#pagetitle{
     margin-left: auto;
     margin-right: auto;
     width: 700px;
-    margin-bottom: 3%; /*previously 4*/
+    margin-bottom: 3%; 
     display: flex;
     justify-content: center;
 }
 
-.about-col-1 .user-picture {
-    margin-bottom: 25px;
-}
-
-.user-picture {
-    border-radius: 50%;
-    max-width: calc(85%);
-}
-
-img {
-    vertical-align: middle;
-    max-width: 100%;
-    height: auto;
+.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; 
 }
 
 #name {
     vertical-align: middle;
     text-align: center;
-}
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
 }
 
 
