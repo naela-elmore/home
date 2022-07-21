@@ -81,11 +81,20 @@ div#pagetitle{
     justify-content: center;
 }
 
+#headerimg {
+    margin-left: 100px;
+    border: 2px solid #FFFFFF;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
 .circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; 
 }
 
 #name {
-    vertical-align: middle;
+    vertical-align: top;
     text-align: center;
 }
 
