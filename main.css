@@ -81,7 +81,16 @@ div#pagetitle{
     justify-content: center;
 }
 
-.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; 
+.circular--square {width: 200px;
+                   height: 200px;
+                   margin: 0 auto;
+                   border-radius: 50%;
+                   object-fit: cover;
+}
+
+img { 
+  verticle-align: left;
+  border-style: none;
 }
 
 #name {
