@@ -86,13 +86,13 @@ div#pagetitle{
 }
 
 img {
-    vertical-align: middle;
+    vertical-align: left;
     max-width: 100%;
 }
 
 #name {
     vertical-align: top;
-    text-align: center;
+    text-align: left;
 }
 
 .fa {
@@ -103,10 +103,6 @@ img {
   text-decoration: none;
 }
 
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
 
 p {
     height: auto;
@@ -114,9 +110,7 @@ p {
     margin-bottom: 1em;
 }
 
-p.two {
-  word-spacing: -2px;
-}
+
 
 h1{
     color: #222222;     
