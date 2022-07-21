@@ -68,8 +68,8 @@ div#content {
 }
 
 .column {
-  float: right;
-  width: 33.33%;
+  float: left;
+  width: 50%;
 }
 
 /* Clear floats after the columns */
