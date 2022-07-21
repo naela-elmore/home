@@ -82,12 +82,13 @@ div#pagetitle{
 
 .user-picture {
     border-radius: 50%;
-    max-width: calc(85%);
+    max-width: calc(100%);
 }
 
 img {
     vertical-align: left;
-    max-width: 85%;
+    max-width: 100%;
+    height: auto;
 }
 
 #name {
