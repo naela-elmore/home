@@ -97,8 +97,8 @@ img {
 }
 
 #name {
-    vertical-align: top;
-    text-align: left;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .fa {
