@@ -114,6 +114,10 @@ p {
     margin-bottom: 1em;
 }
 
+p.two {
+  word-spacing: -2px;
+}
+
 h1{
     color: #222222;     
     font-weight: bold;
