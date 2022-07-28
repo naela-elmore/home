@@ -120,22 +120,6 @@ p {
 }
 
 
-.site-title {
-	display: inline-block;
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 55px;
-    letter-spacing: -1px;
-    margin-bottom: -5px;
-}
-
-.wrapper:after, .about-col-wrapper:after {
-    content: "";
-    display: table;
-    clear: both;
-    
- }
-
 h1{
     color: #222222;     
     font-weight: bold;
