@@ -129,6 +129,13 @@ p {
     margin-bottom: -5px;
 }
 
+.wrapper:after, .about-col-wrapper:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+ }
+
 h1{
     color: #222222;     
     font-weight: bold;
